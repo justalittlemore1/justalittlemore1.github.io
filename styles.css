@@ -1157,7 +1157,7 @@ p {
 /* Responsive design for award images */
 @media (max-width: 1600px) {
     .awards-content {
-        padding-right: 50rem; /* Reduced padding for extra extra large screens */
+        padding-right: 10rem; /* Reduced padding for extra extra large screens */
     }
     
     .award-with-image .award-image {
@@ -1170,7 +1170,7 @@ p {
 
 @media (max-width: 1400px) {
     .awards-content {
-        padding-right: 45rem; /* Reduced padding for extra large screens */
+        padding-right: 10rem; /* Reduced padding for extra large screens */
     }
     
     .award-with-image .award-image {
@@ -1183,7 +1183,7 @@ p {
 
 @media (max-width: 1200px) {
     .awards-content {
-        padding-right: 40rem; /* Reduced padding for large screens */
+        padding-right: 10rem; /* Reduced padding for large screens */
     }
     
     .award-with-image .award-image {
@@ -1196,7 +1196,7 @@ p {
 
 @media (max-width: 992px) {
     .awards-content {
-        padding-right: 35rem; /* Reduced padding for medium screens */
+        padding-right: 10rem; /* Reduced padding for medium screens */
     }
     
     .award-with-image .award-image {
