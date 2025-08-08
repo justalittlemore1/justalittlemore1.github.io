@@ -1099,8 +1099,8 @@ p {
 }
 
 .award-item.award-with-image .award-image {
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   border-radius: 20px;
   overflow: hidden;
   box-shadow: 0 25px 50px -12px rgba(35,44,51,0.25);
